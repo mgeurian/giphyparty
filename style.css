@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+}
+
+form{
+  border: 1px solid black;
+  text-align: center;
+}
+
+img {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+}
+
+/* learn about sizing images in bootstrap */
